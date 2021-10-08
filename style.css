@@ -1,0 +1,26 @@
+h5{
+ font-family: Impact,fantasy;
+ text-align: center;
+ font-size: 30px;
+ color: rebeccapurple;
+ font-style: italic;
+}
+
+th{
+	    font-weight: 800;
+	    background-color: darkgray;
+	    color: black;
+	    font-family:sans-serif;
+	}
+	table{
+	    font-family:helvetica, sans-serif;
+	    border-collapse: collapse;
+	    border-width: 1px;
+	    border-style: solid;
+	    border-color: darkslateblue;
+	}
+	td{
+	    background-color: teal;
+	    color: black;
+	    font-family:fantasy;
+	}
